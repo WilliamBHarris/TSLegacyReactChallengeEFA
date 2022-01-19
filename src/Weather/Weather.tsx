@@ -1,5 +1,5 @@
 import React from "react";
-import WeatherDisplay from "./WeatherDisplay/ShowWeather";
+import WeatherDisplay from "./WeatherShow/ShowWeather";
 
 type WeatherState = {
   latitude: number;
